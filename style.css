@@ -7,12 +7,15 @@
     height: 770px;
 }
 #front{
+    margin: 0px;
     background-color: white;
     width: 600px;
     height: 770px; 
 
 }
 #nav{
+    margin: 5px;
+    padding: 2px;
     background-color: black;
     color: white;
     height: 40px;
